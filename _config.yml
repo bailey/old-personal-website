@@ -2,7 +2,7 @@
 title: bailey brooks
 description: hi, i'm bailey
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "baibrooks.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "baibrooks.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: bailey brooks
