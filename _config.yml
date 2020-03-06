@@ -6,8 +6,8 @@ url: "baibrooks.com" # the base hostname & protocol for your site e.g. http://wi
 
 # User settings
 username: bailey brooks
-user_description: hello, i'm bailey
-user_title: Product Manager
+user_description: 
+user_title: product manager
 email: bailey@github.com
 twitter_username: __baileybrooks
 github_username:  bailey
