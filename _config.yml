@@ -11,7 +11,9 @@ user_title: product manager
 email: bailey@github.com
 twitter_username: __baileybrooks
 github_username:  bailey
-# gplus_username:  lorem_ipsum
+
+plugins:
+  - jekyll-seo-tag
 
 # Google-analytics
 google-analytics:
