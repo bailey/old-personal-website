@@ -11,7 +11,7 @@ In order to compile the assets and run Jekyll on local you need to follow those 
 
 ## License
 
-This theme is free and open source software, distributed under the The MIT License. So feel free to use this Jekyll theme anyway you want.
+This theme is free and open source software, distributed under the The MIT License.
 
 ## Theme Credits
 
