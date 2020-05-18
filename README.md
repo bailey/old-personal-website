@@ -1,5 +1,7 @@
+# Personal Site
 
-## Running the blog in local
+
+## Running the site in local
 
 In order to compile the assets and run Jekyll on local you need to follow those steps:
 
