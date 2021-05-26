@@ -1,5 +1,5 @@
 {
-  "image": "docker.io/bailey4/jekyll",
+  error
   "forwardPorts": [3000],
   "extensions": ["dbaeumer.vscode-eslint"]
 }
