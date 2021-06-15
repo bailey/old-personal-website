@@ -1,4 +1,3 @@
 {
-  "forwardPorts": [3000],
-  "extensions": ["dbaeumer.vscode-eslint"]
+  "forwardPorts": [3000]
 }
