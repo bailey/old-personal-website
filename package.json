@@ -11,15 +11,16 @@
   "dependencies": {
     "acorn": "^7.2.0",
     "browser-sync": "^2.26.7",
-    "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
     "gulp-csso": "^3.0.1",
     "gulp-imagemin": "^5.0.3",
     "gulp-plumber": "^1.2.1",
     "gulp-sass": "^4.1.0",
-    "gulp-uglify": "^3.0.2"
+    "gulp-uglify": "^3.0.2",
+    "jekyll": "^3.0.0-beta1"
   },
   "devDependencies": {
+    "gulp": "^4.0.2",
     "gulp-gh-pages": "^0.5.4"
   }
 }
